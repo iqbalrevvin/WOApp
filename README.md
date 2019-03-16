@@ -3,7 +3,7 @@
 <br>
 <p><strong>Identifikasi Masalah</strong></p>
 <ul>
-<li>Sulitnya klien dalam memilih paket wedding secara langsung sehingga membutuhka waktu yang lama untuk diam di tempat wedding organizer</li>
+<li>Sulitnya klien dalam memilih paket wedding secara langsung sehingga membutuhkan waktu yang lama untuk diam di tempat wedding organizer</li>
 <li>Sulitnya memanajemen jadwal pernikahan dan komunikasi kepada klien dikarenakan masih menggunakan cara konvensional melalui media pesan ataupun telepon.</li>
 </ul>
 <p><strong>Batasan/cakupan</strong></p>
@@ -17,4 +17,3 @@
 <ul>
 <li>Manfaat yang diharapkan dari penelitian ini untuk memberikan kemudahan antara pihak wedding organizer dan calon pengantin dalam menunjang kebutuhan acara pernikahan dengan media aplikasi android, sehingga proses pelayanan akan lebih efektif dan efisien.</li>
 </ul>
-
