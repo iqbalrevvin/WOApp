@@ -1,5 +1,5 @@
 # WOApp
-Aplikasi Wedding Organizer
+<h2>Aplikasi Wedding Organizer</h2>
 <br>
 <p><strong>Identifikasi Masalah</strong></p>
 <ul>
